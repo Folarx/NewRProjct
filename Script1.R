@@ -92,3 +92,4 @@ summarise(diamonds, MIN = min(price), MEAN = mean(price), MAX = max(price))
 
 
 
+
